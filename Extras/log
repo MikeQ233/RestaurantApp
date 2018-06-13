@@ -1,0 +1,36 @@
+Mar 30, 2018 11:11:06 AM control.OrderModifier makeNewOrder
+INFO: new order Order#1025 has been created
+Mar 30, 2018 11:11:13 AM control.OrderModifier makeNewOrder
+INFO: new order Order#1026 has been created
+Mar 30, 2018 11:11:21 AM control.OrderModifier makeNewOrder
+INFO: new order Order#1027 has been created
+Mar 30, 2018 11:11:31 AM control.OrderModifier makeNewOrder
+INFO: new order Order#1028 has been created
+Mar 30, 2018 11:11:44 AM control.OrderModifier makeNewOrder
+INFO: new order Order#1029 has been created
+Mar 30, 2018 11:11:57 AM control.CustomerItemController acknowledgeItem
+INFO: Order#1025:Item#1037:  Fries has been acknowledge by the kitchen
+Mar 30, 2018 11:11:59 AM control.CustomerItemController readyItem
+INFO: Order#1026 Item#1038:  Fries has been cooked and is waiting for delivery
+Mar 30, 2018 11:12:02 AM control.CustomerItemController readyItem
+INFO: Order#1027 Item#1039:  Hamburger has been cooked and is waiting for delivery
+Mar 30, 2018 11:12:05 AM control.CustomerItemController readyItem
+INFO: Order#1028 Item#1040:  Brownies with ice cream has been cooked and is waiting for delivery
+Mar 30, 2018 11:12:07 AM control.CustomerItemController readyItem
+INFO: Order#1029 Item#1041:  Hamburger has been cooked and is waiting for delivery
+Mar 30, 2018 11:12:10 AM control.CustomerItemController readyItem
+INFO: Order#1025 Item#1037:  Fries has been cooked and is waiting for delivery
+Mar 30, 2018 11:14:21 AM control.OrderModifier makeNewOrder
+INFO: new order Order#1030 has been created
+Mar 30, 2018 11:14:47 AM control.OrderModifier deleteOrder
+INFO: Order#1030 has been deleted
+Mar 30, 2018 11:14:53 AM control.OrderModifier deleteOrder
+INFO: Order#1029 has been deleted
+Mar 30, 2018 11:15:01 AM control.OrderModifier deleteOrder
+INFO: Order#1028 has been deleted
+Mar 30, 2018 11:15:03 AM control.OrderModifier deleteOrder
+INFO: Order#1027 has been deleted
+Mar 30, 2018 11:15:05 AM control.OrderModifier deleteOrder
+INFO: Order#1026 has been deleted
+Mar 30, 2018 11:15:07 AM control.OrderModifier deleteOrder
+INFO: Order#1025 has been deleted

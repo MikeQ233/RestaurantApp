@@ -1,0 +1,14 @@
+served order directory = FinishedOrders/
+served item directory = FinishedItems/
+menu item directory = MenuItems/
+beverage directory = MenuItems/Beverage/
+food directory = MenuItems/Food/
+items directory = Items/
+orders directory = Orders/
+stock directory = Stock/
+extras directory = Extras/
+bills directory = Bills/
+lock file directory = LockFiles/
+logger directory = Loggers/log
+initial order number = 1000
+initial item number = 1000
